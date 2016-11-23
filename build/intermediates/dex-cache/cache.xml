@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_1a04b141b3bb552e246739115675d9b4167b7491\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_2c196c55ef81e557681ddf90a37937d4fcc4b138\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\libs\additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\2\additionnal_16a42c62a16bf17c850174385a68cdecfa633b90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_4e26ee4e6f82ca59578eb93bbb01726c0bce0aa6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_97908c553cd8b02780f4c0204dbddbc28c84fafb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_5bf7f7318c5dd8add65ee3419693ab3f21cf60ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="79ebfc5f3c65b5e386b5b08e0a04a506d66ac8ca">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_585c32fa71903463cb125be20cd8c5cec33084b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d08760cc00032ec33eef1e9e001e071b4ab557ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ff82dd38e69de21f47a473d223a33f74df27d625">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_496a2e18c42f3da2ac75e81f974482db76692d17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_2a87428fd2448d759285db6e47e4f0f13b259998\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_7bb6d709fb7443ab10cc9f002f0c62575cb9db66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\libs\mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\2\mail_02a4f50907b09d7abd9bd8a44a6c0b93bf290ebe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_51ab30143fbff50b8779a9626e6d377c1c44e7c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_4a282cfc624a8bbf22bda827ebb89fcbd993a7ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_18ce431ccda408b57598d2e0cfd24bae482d773b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\libs\activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\2\activation_4cd85573cc6eb2a1ea443de830c296fff5f2f60d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_4277cf0594fb3ece4f2c1a708e2d395891fc459a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_0cd0a614e12efbdcfefd79fbf080174462b839f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_20d70c2c934c7a13520a729e59999f34c61cbdbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikhaellopez-circularimageview-3.0.2_f14469cc9fcdbd0f462ee99c0635756e01d68359\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_462248d218e359347637d80515094d2e01749c55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_6c3d1ecfe0e92a251a6724bb99de4265f968a166\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_e6377208796bdbf22fa8fe97549aefb6b68ff28b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_20d426ec87aaeedbd1b808cf59b324f51cb34077\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Ing. Christopher\Chris\Curso arduino\TareaMascotas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_e4d180cdaabf7a25cd9d13a4344ca7a1847373b5\classes.dex" />
+    </item>
+
+</items>
